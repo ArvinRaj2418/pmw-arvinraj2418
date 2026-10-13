@@ -1,1 +1,2 @@
 lab,work_item,role_pass,agent,model,billing,prompts,observed_usage,context_peak_pct,tool_calls,accepted,rework_cycles,notes
+1,LAB01_PLAN,build,manual,not-applicable,ai-credits,0,,,0,no,0,manual draft pending human acceptance
