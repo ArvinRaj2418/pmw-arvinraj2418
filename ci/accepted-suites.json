@@ -1,6 +1,8 @@
 {
   "description": "Suites that must pass on every pull request. Append a lab's suites in the pull request that completes it. Never remove one.",
   "suites": [
-    "tests/baseline.test.mjs"
+    "tests/baseline.test.mjs",
+    "tests/lab02.test.mjs",
+    "tests/usage.test.mjs"
   ]
 }
